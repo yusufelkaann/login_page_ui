@@ -1,6 +1,6 @@
 # login_page_ui
 
-A new Flutter project.
+A new Flutter ui project.
 
 ## Getting Started
 
